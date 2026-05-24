@@ -6,9 +6,9 @@ A Beacon Spec personal assistant for commerce, powered by your choice of AI prov
 
 ## Download
 
-- **Windows (x64):** [Bea-Setup-0.1.2-x64.exe](https://github.com/dtsoden/bea-app/releases/download/v0.1.2/Bea-Setup-0.1.2-x64.exe)
-- **macOS (Apple Silicon):** [Bea-0.1.2-arm64.dmg](https://github.com/dtsoden/bea-app/releases/download/v0.1.2/Bea-0.1.2-arm64.dmg)
-- **macOS (Intel):** [Bea-0.1.2-x64.dmg](https://github.com/dtsoden/bea-app/releases/download/v0.1.2/Bea-0.1.2-x64.dmg)
+- **Windows (x64):** [Bea-Setup-x64.exe](https://github.com/dtsoden/bea-app/releases/latest/download/Bea-Setup-x64.exe)
+- **macOS (Apple Silicon):** [Bea-arm64.dmg](https://github.com/dtsoden/bea-app/releases/latest/download/Bea-arm64.dmg)
+- **macOS (Intel):** [Bea-x64.dmg](https://github.com/dtsoden/bea-app/releases/latest/download/Bea-x64.dmg)
 
 > Mac binaries are uploaded shortly after each Windows release by the Mac build host.
 
